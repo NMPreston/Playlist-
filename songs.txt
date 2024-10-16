@@ -1,6 +1,0 @@
-title,artist,album,genre,is_cover,duration
-Shape of You,Ed Sheeran,Divide,Pop,False,235
-Bohemian Rhapsody,Queen,A Night at the Opera,Rock,False,354
-Hallelujah,Jeff Buckley,NA,Folk,True,294
-All Along the Watchtower,Jimi Hendrix,Electric Ladyland,Rock,True,240
-Billie Jean,Michael Jackson,Thriller,Pop,False,294
